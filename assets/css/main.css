@@ -3639,6 +3639,13 @@ input, select, textarea {
 			object-position: right;
 		}
 
+		.banner.style1.image-position-center .image img {
+			-moz-object-position: center;
+			-webkit-object-position: center;
+			-ms-object-position: center;
+			object-position: center;
+		}
+
 /* Banner (style2) */
 
 	.banner.style2 {
